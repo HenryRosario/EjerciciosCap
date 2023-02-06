@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t1QT2+GWxXZqzsqsGP0ZtT90jm57dfu1B5JEXk/Cd+UKRfFloxo9RtnwFwL5KGoIZulDcV8A1ZbQFqM/JmZyFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Programacion aplicada 1\\Ejercicio del cap1\\Ejercicio del cap1\\Ejercicio del cap1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
